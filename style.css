@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #1e1e2f;
-    color: #f4f4f4;
+    background-color: #e4ba31;
+    color: #000000;
 }
 
 .cv-container {
@@ -17,7 +17,7 @@ body {
 
 .sidebar {
     width: 30%;
-    background-color: #27293d;
+    background-color: #fff2b8;
     padding: 30px;
 }
 
@@ -31,7 +31,7 @@ body {
     height: 120px;
     border-radius: 50%;
     margin-bottom: 15px;
-    border: 3px solid #00d4ff;
+    border: 3px solid #ff7b00;
 }
 
 .profile h1 {
@@ -39,13 +39,13 @@ body {
 }
 
 .profile p {
-    color: #00d4ff;
+    color: #ff7b00;
 }
 
 .sidebar h2 {
     margin-top: 25px;
     margin-bottom: 10px;
-    color: #00d4ff;
+    color: #ff7b00;
     font-size: 18px;
 }
 
@@ -61,7 +61,7 @@ body {
 .content {
     width: 70%;
     padding: 40px;
-    background-color: #2e3148;
+    background-color: #fff2b8;
 }
 
 .content section {
@@ -69,9 +69,9 @@ body {
 }
 
 .content h2 {
-    color: #00d4ff;
+    color: #ff7b00;
     margin-bottom: 10px;
-    border-bottom: 2px solid #00d4ff;
+    border-bottom: 2px solid #ff7b00;
     padding-bottom: 5px;
 }
 
@@ -85,7 +85,7 @@ body {
 
 .item span {
     font-size: 13px;
-    color: #bbb;
+    color: #daa700;
 }
 
 .item p {
